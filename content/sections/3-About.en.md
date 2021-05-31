@@ -12,19 +12,19 @@ timeline: [
   {
     imageFileName: "about/2.jpg",
     header: "March 2016",
-    subheader: "An Agency is Born",
+    subheader: "An Prototype is Developed",
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
   },
   {
     imageFileName: "about/3.png",
     header: "January 2020",
-    subheader: "Transition to Full Service",
+    subheader: "Westward Expansion",
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
   },
   {
     imageFileName: "about/4.jpg",
     header: "May 2021",
-    subheader: "Phase Two Expansion",
+    subheader: "La Jolla is Born",
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
   },
   {
