@@ -8,9 +8,7 @@ portfolios: [
     imageFileNameDetail: "portfolio/01-full.jpg",
     header: "La Jolla",
     subheader: "Our First Build",
-    content: "Solar Panel - LG 54537. 
-    Wiring - all anchor-marine-grade, 100 degree Celsius temp rating
-    Refrigerator - Dometic CFx 45",
+    content: "Solar Panel - LG 54537. Wiring - all anchor-marine-grade, 100 degree Celsius temp rating. Refrigerator - Dometic CFx 45.",
     extraInfo: ["Date: July 2021", "Client: On Sale", "Category: Ready-to-Drive"]
   },
   {
