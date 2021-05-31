@@ -23,7 +23,7 @@ module.exports = {
         short_name: "Sequoia Vans",
         start_url: "/",
         background_color: "#ffffff",
-        theme_color: "#662d91",
+        theme_color: "#8cc63f",
         display: "standalone",
         icon: "content/assets/favicon.png",
       },
