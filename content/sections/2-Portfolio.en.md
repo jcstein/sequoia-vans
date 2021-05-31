@@ -8,8 +8,8 @@ portfolios: [
     imageFileNameDetail: "portfolio/01-full.jpg",
     header: "La Jolla",
     subheader: "Our First Build",
-    content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
-    extraInfo: ["Date: January 2017", "Client: Threads", "Category: Illustration"]
+    content: "Solar Panel - LG 54537. Wiring - all anchor marine grade wiring, 100 degree Celsius temp rating. Refrigerator - Dometic CFx 45",
+    extraInfo: ["Date: July 2021", "Client: On Sale", "Category: Ready-to-Drive"]
   },
   {
     imageFileName: "portfolio/02-thumbnail.jpg",
