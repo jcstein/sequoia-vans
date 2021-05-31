@@ -1,6 +1,6 @@
 ---
-anchor: "Bestand"
-header: "Bestand"
+anchor: "inventarisieren"
+header: "inventarisieren"
 subheader: "Schauen Sie sich unsere Arbeit an."
 portfolios: [
   {
