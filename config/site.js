@@ -12,7 +12,7 @@ module.exports = {
   ],
   description: "Luxury sprinter van conversions built for versatility and GROWTH.",
   author: "Josh Stein",
-  trackingId: "G-LMZ1D9F2P2",
+  trackingId: "G-VYNMKK4KF7",
   defaultLang: "en",
   langTextMap: {
     en: "English",
