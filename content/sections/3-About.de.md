@@ -6,7 +6,7 @@ timeline: [
   {
     imageFileName: "about/1.jpg",
     header: "2009年-2011年",
-    subheader: "Our Humble Beginnings",
+    subheader: "unsere bescheidenen Anfänge",
     content: "Wir haben uns im College getroffen. Beziehung zu unseren Religionen."
   },
   {
