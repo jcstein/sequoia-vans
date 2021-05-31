@@ -7,7 +7,7 @@ teamMember: [
   {
     imageFileName: "team/1.jpg",
     header: "Nassim el Gourchal",
-    subheader: "Lead Designer",
+    subheader: "Product Designer",
     social: {
       twitter: "#",
       facebook: "#",
