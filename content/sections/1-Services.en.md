@@ -4,7 +4,7 @@ header: "Services"
 subheader: "Luxury sprinter van conversions built for versatility and GROWTH."
 services: [
   {
-    iconName: "ShoppingCartIcon",
+    iconName: "VanIcon",
     header: "Van Conversion",
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
   },
