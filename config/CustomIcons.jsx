@@ -1,7 +1,7 @@
 import makeFAIcon from "utils/makeFAIcon";
 
-import { faShuttleVan, faSteeringWheel, faPencilPaintbrush } from "@fortawesome/free-solid-svg-icons";
+import { faShuttleVan, faUniversalAccess, faPencilRuler } from "@fortawesome/free-solid-svg-icons";
 
 export const ShoppingCartIcon = makeFAIcon(faShuttleVan);
-export const LaptopIcon = makeFAIcon(faSteeringWheel);
-export const LockIcon = makeFAIcon(faPencilPaintbrush);
+export const LaptopIcon = makeFAIcon(faUniversalAccess);
+export const LockIcon = makeFAIcon(faPencilRuler);
