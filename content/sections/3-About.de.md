@@ -5,7 +5,7 @@ subheader: "Von den Menschen gebaut, für die Menschen."
 timeline: [
   {
     imageFileName: "about/1.jpg",
-    header: "2009年-2011年",
+    header: "2013",
     subheader: "unsere bescheidenen Anfänge",
     content: "Wir haben uns im College getroffen. Beziehung zu unseren Religionen."
   },
