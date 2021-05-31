@@ -1,21 +1,21 @@
 ---
 anchor: "Services"
 header: "Services"
-subheader: "Lorem ipsum dolor sit amet consectetur."
+subheader: "Luxury sprinter van conversions built for versatility and GROWTH."
 services: [
   {
     iconName: "ShoppingCartIcon",
-    header: "E-Commerce",
+    header: "Van Conversion",
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
   },
   {
     iconName: "LaptopIcon",
-    header: "Responsive Design",
+    header: "Ready-to-Drive",
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
   },
   {
     iconName: "LockIcon",
-    header: "Web Security",
+    header: "Custom Builds",
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
   }
 ]
