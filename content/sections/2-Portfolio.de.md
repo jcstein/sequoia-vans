@@ -1,15 +1,15 @@
 ---
-anchor: "ポートフォリオ"
-header: "ポートフォリオ"
-subheader: "あなたは偶然断然その持通り"
+anchor: "Bestand"
+header: "Bestand"
+subheader: "Schauen Sie sich unsere Arbeit an."
 portfolios: [
   {
     imageFileName: "portfolio/01-thumbnail.jpg",
     imageFileNameDetail: "portfolio/01-full.jpg",
     header: "La Jolla",
     subheader: "unser erster Build",
-    content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。受売へ折っだっのはもし今をもうないないない。",
-    extraInfo: ["日付： July 2021", "クライエント: im Angebot", "カテゴリ: fahrbereit"]
+    content: "Solarpanel - LG 54537. Verkabelung - alle Anker-Marine-Qualität, 100 Grad Celsius Temperatur. Kühlschrank - Dometic CFx 45",
+    extraInfo: ["Datum： July 2021", "Klientin: im Angebot", "Kategorie: fahrbereit"]
   },
   {
     imageFileName: "portfolio/02-thumbnail.jpg",
@@ -17,7 +17,7 @@ portfolios: [
     header: "Explorer",
     subheader: "グラフデザイン",
     content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。受売へ折っだっのはもし今をもうないないない。",
-    extraInfo: ["日付： January 2017", "クライエント: Explorer", "カテゴリ: Graphic Design"]
+    extraInfo: ["Datum： January 2017", "Klientin: Explorer", "Kategorie: Graphic Design"]
   },
   {
     imageFileName: "portfolio/03-thumbnail.jpg",
@@ -25,7 +25,7 @@ portfolios: [
     header: "Finish",
     subheader: "アイデンティティ",
     content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。受売へ折っだっのはもし今をもうないないない。",
-    extraInfo: ["日付： January 2017", "クライエント: Finish", "カテゴリ: Identity"]
+    extraInfo: ["Datum： January 2017", "Klientin: Finish", "Kategorie: Identity"]
   },
   {
     imageFileName: "portfolio/04-thumbnail.jpg",
@@ -33,7 +33,7 @@ portfolios: [
     header: "Lines",
     subheader: "ブランディング",
     content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。受売へ折っだっのはもし今をもうないないない。",
-    extraInfo: ["日付： January 2017", "クライエント: Lines", "カテゴリ: Branding"]
+    extraInfo: ["Datum： January 2017", "Klientin: Lines", "Kategorie: Branding"]
   },
   {
     imageFileName: "portfolio/05-thumbnail.jpg",
@@ -41,7 +41,7 @@ portfolios: [
     header: "Southwest",
     subheader: "ウェブサイトデザイン",
     content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。受売へ折っだっのはもし今をもうないないない。",
-    extraInfo: ["日付： January 2017", "クライエント: Southwest", "カテゴリ: Website Design"]
+    extraInfo: ["Datum： January 2017", "Klientin: Southwest", "Kategorie: Website Design"]
   },
   {
     imageFileName: "portfolio/06-thumbnail.jpg",
@@ -49,7 +49,7 @@ portfolios: [
     header: "Window",
     subheader: "フォトショップ",
     content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。受売へ折っだっのはもし今をもうないないない。",
-    extraInfo: ["日付： January 2017", "クライエント: Window", "カテゴリ: Photography"]
+    extraInfo: ["Datum： January 2017", "Klientin: Window", "Kategorie: Photography"]
   }
 ]
 ---

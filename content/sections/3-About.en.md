@@ -1,7 +1,7 @@
 ---
 anchor: "About"
 header: "About"
-subheader: "Built by the people, for the people"
+subheader: "Built by the people, for the people."
 timeline: [
   {
     imageFileName: "about/1.jpg",
@@ -12,7 +12,7 @@ timeline: [
   {
     imageFileName: "about/2.jpg",
     header: "March 2016",
-    subheader: "An Prototype is Developed",
+    subheader: "A Prototype is Developed",
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
   },
   {
