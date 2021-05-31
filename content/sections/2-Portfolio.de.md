@@ -9,7 +9,7 @@ portfolios: [
     header: "La Jolla",
     subheader: "unser erster Build",
     content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。受売へ折っだっのはもし今をもうないないない。",
-    extraInfo: ["日付： January 2017", "クライエント: Threads", "カテゴリ: Illustration"]
+    extraInfo: ["日付： July 2021", "クライエント: im Angebot", "カテゴリ: fahrbereit"]
   },
   {
     imageFileName: "portfolio/02-thumbnail.jpg",
