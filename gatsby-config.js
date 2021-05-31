@@ -20,7 +20,7 @@ module.exports = {
       resolve: "gatsby-plugin-manifest",
       options: {
         name: title,
-        short_name: "Sequoia Vans",
+        short_name: "SequoiaV",
         start_url: "/",
         background_color: "#ffffff",
         theme_color: "#8cc63f",
