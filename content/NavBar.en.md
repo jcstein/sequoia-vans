@@ -1,4 +1,4 @@
 ---
 brand: "Sequoia Vans"
-menuText: "Menu"
+menuText: "Menu "
 ---
