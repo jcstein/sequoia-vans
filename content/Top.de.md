@@ -1,5 +1,5 @@
 ---
-header: "Nett, Sie kennen zu lernen."
+header: "Lass uns dich auf die Autobahn bringen"
 subheader: "Willkommen bei Sequoia Vans!"
 imageFileName: "header-bg.jpg"
 jumpToAnchor: "Bestand"
