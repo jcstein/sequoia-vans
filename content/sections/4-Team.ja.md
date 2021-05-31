@@ -25,7 +25,7 @@ teamMember: [
     }
   },
   {
-    imageFileName: "team/3.jpg",
+    imageFileName: "team/3.png",
     header: "Diana Pertersen",
     subheader: "Lead Developer",
     social: {

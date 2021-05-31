@@ -16,7 +16,7 @@ timeline: [
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
   },
   {
-    imageFileName: "about/3.jpg",
+    imageFileName: "about/3.png",
     header: "January 2020",
     subheader: "Transition to Full Service",
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."

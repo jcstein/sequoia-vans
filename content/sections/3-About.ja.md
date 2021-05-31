@@ -16,7 +16,7 @@ timeline: [
     content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。"
   },
   {
-    imageFileName: "about/3.jpg",
+    imageFileName: "about/3.png",
     header: "2012年12月",
     subheader: "Transition to Full Service",
     content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。"

@@ -25,7 +25,7 @@ teamMember: [
     }
   },
   {
-    imageFileName: "team/3.jpg",
+    imageFileName: "team/3.png",
     header: "Josh Stein",
     subheader: "Lead Developer",
     social: {
