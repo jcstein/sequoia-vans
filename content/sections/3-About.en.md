@@ -7,7 +7,7 @@ timeline: [
     imageFileName: "about/1.jpg",
     header: "2013",
     subheader: "Our Humble Beginnings",
-    content: "We met in college at Virginia Commonwealth University in August 2013."
+    content: "We met at Virginia Commonwealth University in August 2013."
   },
   {
     imageFileName: "about/2.jpg",
